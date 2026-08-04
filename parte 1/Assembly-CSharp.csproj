@@ -1,0 +1,397 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{990ABE02-8487-4941-9742-D0ED9BD8165E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Assembly-CSharp</RootNamespace>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <FileAlignment>512</FileAlignment>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableDefaultItems>False</EnableDefaultItems>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Include="ActiveAnimation.cs" />
+    <Compile Include="ActivePowerup.cs" />
+    <Compile Include="AdColony.cs" />
+    <Compile Include="AdColonyCallbackHandler.cs" />
+    <Compile Include="AnimationOrTween\Direction.cs" />
+    <Compile Include="AnimationOrTween\DisableCondition.cs" />
+    <Compile Include="AnimationOrTween\EnableCondition.cs" />
+    <Compile Include="AnimationOrTween\Trigger.cs" />
+    <Compile Include="AnimationSoundPlayer.cs" />
+    <Compile Include="AntiAliasingEnabler.cs" />
+    <Compile Include="AudioClipInfo.cs" />
+    <Compile Include="AudioKeyFrameType.cs" />
+    <Compile Include="AudioLoopInfo.cs" />
+    <Compile Include="AudioSourceExtensions.cs" />
+    <Compile Include="AudioState.cs" />
+    <Compile Include="AudioStateLoop.cs" />
+    <Compile Include="AutoMessageButton.cs" />
+    <Compile Include="AvatarAnimations.cs" />
+    <Compile Include="BetterList.cs" />
+    <Compile Include="BMFont.cs" />
+    <Compile Include="BMGlyph.cs" />
+    <Compile Include="BragButtonHelper.cs" />
+    <Compile Include="BragPopupHandler.cs" />
+    <Compile Include="BragSendHelper.cs" />
+    <Compile Include="BuyButtonIngame.cs" />
+    <Compile Include="ByteReader.cs" />
+    <Compile Include="CameraCulling.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="CharacterCamera.cs" />
+    <Compile Include="CharacterModel.cs" />
+    <Compile Include="CharacterModels.cs" />
+    <Compile Include="CharacterModifier.cs" />
+    <Compile Include="CharacterModifierCollection.cs" />
+    <Compile Include="CharacterPickupParticles.cs" />
+    <Compile Include="CharacterScreenModelHandling.cs" />
+    <Compile Include="CharacterState.cs" />
+    <Compile Include="ChartBoost.cs" />
+    <Compile Include="ChatInput.cs" />
+    <Compile Include="Cloud.cs" />
+    <Compile Include="Clouds.cs" />
+    <Compile Include="Coin.cs" />
+    <Compile Include="CoinBoxSizer.cs" />
+    <Compile Include="CoinButtonHelper.cs" />
+    <Compile Include="CoinEarnerButtonHelper.cs" />
+    <Compile Include="CoinJumpCurve.cs" />
+    <Compile Include="CoinLine.cs" />
+    <Compile Include="CoinMagnet.cs" />
+    <Compile Include="CoinMagnetPickup.cs" />
+    <Compile Include="CoinPlaceholder.cs" />
+    <Compile Include="CoinPool.cs" />
+    <Compile Include="CoinScreenSetup.cs" />
+    <Compile Include="ColliderQueues.cs" />
+    <Compile Include="ContentChange.cs" />
+    <Compile Include="CrewBottomButtonHelper.cs" />
+    <Compile Include="CrewCollectButton.cs" />
+    <Compile Include="Curve.cs" />
+    <Compile Include="CurveParent.cs" />
+    <Compile Include="CurvePoint.cs" />
+    <Compile Include="CurvePointTangent.cs" />
+    <Compile Include="DailyChallengeColorChanger.cs" />
+    <Compile Include="DailyLetterPickup.cs" />
+    <Compile Include="DailyLetterPickupManager.cs" />
+    <Compile Include="DailyWord.cs" />
+    <Compile Include="DeviceInfo.cs" />
+    <Compile Include="DeviceUtility.cs" />
+    <Compile Include="Distort.cs" />
+    <Compile Include="DoubleScoreMultiplier.cs" />
+    <Compile Include="DoubleScoreMultiplierPickup.cs" />
+    <Compile Include="DownloadTexture.cs" />
+    <Compile Include="DragDropContainer.cs" />
+    <Compile Include="DragDropItem.cs" />
+    <Compile Include="DragDropRoot.cs" />
+    <Compile Include="DragDropSurface.cs" />
+    <Compile Include="DynamicBgMusic.cs" />
+    <Compile Include="EarnCurrencyInfo.cs" />
+    <Compile Include="EditorLoadFromLazyLoadScene.cs" />
+    <Compile Include="EquipItems.cs" />
+    <Compile Include="EquipRandomItem.cs" />
+    <Compile Include="FacebookBinding.cs" />
+    <Compile Include="FacebookInviteButton.cs" />
+    <Compile Include="FacebookLoginButton.cs" />
+    <Compile Include="FacebookProfile.cs" />
+    <Compile Include="FileUtil.cs" />
+    <Compile Include="Flurry.cs" />
+    <Compile Include="FlurryInit.cs" />
+    <Compile Include="FollowingGuard.cs" />
+    <Compile Include="Friend.cs" />
+    <Compile Include="FriendCrewPokeHelper.cs" />
+    <Compile Include="FriendGhostHandler.cs" />
+    <Compile Include="FriendGhostHelper.cs" />
+    <Compile Include="FriendHandlerBrag.cs" />
+    <Compile Include="FriendHandlerCrew.cs" />
+    <Compile Include="FriendHandlerHighScore.cs" />
+    <Compile Include="FriendHelperBrag.cs" />
+    <Compile Include="FriendHelperCrew.cs" />
+    <Compile Include="FriendHelperHighScore.cs" />
+    <Compile Include="FriendPokerIconHelper.cs" />
+    <Compile Include="FriendProgressHelper.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameCenterButton.cs" />
+    <Compile Include="GameOverOfflineHelper.cs" />
+    <Compile Include="GameStats.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="Glow.cs" />
+    <Compile Include="Group.cs" />
+    <Compile Include="GrowMeshBounds.cs" />
+    <Compile Include="GuardSwitchLane.cs" />
+    <Compile Include="Hoverboard.cs" />
+    <Compile Include="IgnoreTimeScale.cs" />
+    <Compile Include="InAirCoinsManager.cs" />
+    <Compile Include="InAppData.cs" />
+    <Compile Include="InAppHelper.cs" />
+    <Compile Include="InAppManager.cs" />
+    <Compile Include="InAppProfile.cs" />
+    <Compile Include="InAppPurchaseHandler.cs" />
+    <Compile Include="IntMask.cs" />
+    <Compile Include="InvAttachmentPoint.cs" />
+    <Compile Include="InvBaseItem.cs" />
+    <Compile Include="InvDatabase.cs" />
+    <Compile Include="InvEquipment.cs" />
+    <Compile Include="InvGameItem.cs" />
+    <Compile Include="InvStat.cs" />
+    <Compile Include="InvTools.cs" />
+    <Compile Include="Jetpack.cs" />
+    <Compile Include="JetPackCloud.cs" />
+    <Compile Include="JetpackPickup.cs" />
+    <Compile Include="KeyFrameAction.cs" />
+    <Compile Include="KeyFrameAudio.cs" />
+    <Compile Include="KeyframeBehaviour.cs" />
+    <Compile Include="LagPosition.cs" />
+    <Compile Include="LagRotation.cs" />
+    <Compile Include="LanguageSelection.cs" />
+    <Compile Include="LoadLevelCtrl.cs" />
+    <Compile Include="LoadLevelOnClick.cs" />
+    <Compile Include="Localization.cs" />
+    <Compile Include="LookAtTarget.cs" />
+    <Compile Include="MessageCenter.cs" />
+    <Compile Include="MiniJSON.cs" />
+    <Compile Include="MiniJsonExtensions.cs" />
+    <Compile Include="Mirror.cs" />
+    <Compile Include="Mission.cs" />
+    <Compile Include="MissionInfo.cs" />
+    <Compile Include="Missions.cs" />
+    <Compile Include="MissionTemplate.cs" />
+    <Compile Include="ModelTrigger.cs" />
+    <Compile Include="MovingCoin.cs" />
+    <Compile Include="MovingTrain.cs" />
+    <Compile Include="MystBoxButtonTest.cs" />
+    <Compile Include="MysteryBox.cs" />
+    <Compile Include="MysteryBoxHandler.cs" />
+    <Compile Include="MysteryBoxHelper.cs" />
+    <Compile Include="MysteryBoxPickup.cs" />
+    <Compile Include="MysteryBoxReward.cs" />
+    <Compile Include="MysteryBoxRewardLabelTemplate.cs" />
+    <Compile Include="MysteryBoxRewardType.cs" />
+    <Compile Include="NGUIDebug.cs" />
+    <Compile Include="NGUIMath.cs" />
+    <Compile Include="NGUITools.cs" />
+    <Compile Include="OnTriggerObject.cs" />
+    <Compile Include="PanWithMouse.cs" />
+    <Compile Include="ParticleFollow.cs" />
+    <Compile Include="Pickup.cs" />
+    <Compile Include="PickupDefault.cs" />
+    <Compile Include="PickupRotate.cs" />
+    <Compile Include="PlayerInfo.cs" />
+    <Compile Include="PlayIdleAnimations.cs" />
+    <Compile Include="pMath.cs" />
+    <Compile Include="PointConstraint.cs" />
+    <Compile Include="PopulateWhatsNew.cs" />
+    <Compile Include="PowerupType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pTween.cs" />
+    <Compile Include="PurchaseHandler.cs" />
+    <Compile Include="PurchaseUpdater.cs" />
+    <Compile Include="RandomizeOffset.cs" />
+    <Compile Include="Randomizer.cs" />
+    <Compile Include="RandomizerTarget.cs" />
+    <Compile Include="RendererActivator.cs" />
+    <Compile Include="ResolutionSetup.cs" />
+    <Compile Include="ResolutionSwitchHelper.cs" />
+    <Compile Include="ResultLogger.cs" />
+    <Compile Include="ResumeButtonHelper.cs" />
+    <Compile Include="RootScaler.cs" />
+    <Compile Include="Rotate.cs" />
+    <Compile Include="Rotator.cs" />
+    <Compile Include="RunnerAnimation.cs" />
+    <Compile Include="RunnerAnimPlayer.cs" />
+    <Compile Include="Running.cs" />
+    <Compile Include="ScoreCounterSoundPlayer.cs" />
+    <Compile Include="ScrollPanelPixelPerfect.cs" />
+    <Compile Include="Selector.cs" />
+    <Compile Include="Sensors\AccelData.cs" />
+    <Compile Include="Sensors\Accelerometer.cs" />
+    <Compile Include="SetColorOnSelection.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="ShaderQuality.cs" />
+    <Compile Include="SmoothDampFloat.cs" />
+    <Compile Include="SmoothDampVector3.cs" />
+    <Compile Include="SnapObject.cs" />
+    <Compile Include="So.cs" />
+    <Compile Include="SocialManager.cs" />
+    <Compile Include="SocialNetworkingEventListener.cs" />
+    <Compile Include="SocialNetworkingGUIManager.cs" />
+    <Compile Include="SocialNetworkingGUIManagerTwo.cs" />
+    <Compile Include="SocialNetworkingManager.cs" />
+    <Compile Include="SocialTest.cs" />
+    <Compile Include="Sound.cs" />
+    <Compile Include="SoundButton.cs" />
+    <Compile Include="SpawnPoint.cs" />
+    <Compile Include="SpawnPointManager.cs" />
+    <Compile Include="SpawnPointObject.cs" />
+    <Compile Include="Spin.cs" />
+    <Compile Include="SpinWithMouse.cs" />
+    <Compile Include="SpiralSpecialCase.cs" />
+    <Compile Include="SprayDetectionAwaker.cs" />
+    <Compile Include="SpringPanel.cs" />
+    <Compile Include="SpringPosition.cs" />
+    <Compile Include="StackTrace.cs" />
+    <Compile Include="StringUtility.cs" />
+    <Compile Include="SuperSneakers.cs" />
+    <Compile Include="SuperSneakersGroup.cs" />
+    <Compile Include="SuperSneakersPickup.cs" />
+    <Compile Include="Swipe.cs" />
+    <Compile Include="SwipeDir.cs" />
+    <Compile Include="TestStats.cs" />
+    <Compile Include="Track.cs" />
+    <Compile Include="TrackChunk.cs" />
+    <Compile Include="TrackChunkCollection.cs" />
+    <Compile Include="TrackObject.cs" />
+    <Compile Include="Tunnel.cs" />
+    <Compile Include="TurnTableLoopPlayer.cs" />
+    <Compile Include="TutorialEvent.cs" />
+    <Compile Include="TweenColor.cs" />
+    <Compile Include="TweenPosition.cs" />
+    <Compile Include="TweenRotation.cs" />
+    <Compile Include="TweenScale.cs" />
+    <Compile Include="TweenTransform.cs" />
+    <Compile Include="TwitterBinding.cs" />
+    <Compile Include="TypewriterEffect.cs" />
+    <Compile Include="UIAnchor.cs" />
+    <Compile Include="UIAtlas.cs" />
+    <Compile Include="UIBasicButton.cs" />
+    <Compile Include="UIButton.cs" />
+    <Compile Include="UIButtonChangeScreen.cs" />
+    <Compile Include="UIButtonColor.cs" />
+    <Compile Include="UIButtonGame.cs" />
+    <Compile Include="UIButtonKeys.cs" />
+    <Compile Include="UIButtonMessage.cs" />
+    <Compile Include="UIButtonMessageCenter.cs" />
+    <Compile Include="UIButtonOffset.cs" />
+    <Compile Include="UIButtonPlayAnimation.cs" />
+    <Compile Include="UIButtonRotation.cs" />
+    <Compile Include="UIButtonScale.cs" />
+    <Compile Include="UIButtonSound.cs" />
+    <Compile Include="UIButtonTween.cs" />
+    <Compile Include="UICamera.cs" />
+    <Compile Include="UICharacterBuyButton.cs" />
+    <Compile Include="UICharacterSelectButton.cs" />
+    <Compile Include="UICheckbox.cs" />
+    <Compile Include="UICheckboxControlledComponent.cs" />
+    <Compile Include="UICheckboxControlledObject.cs" />
+    <Compile Include="UICursor.cs" />
+    <Compile Include="UIDailyTimer.cs" />
+    <Compile Include="UIDailyTimerLabel.cs" />
+    <Compile Include="UIDragCamera.cs" />
+    <Compile Include="UIDraggableCamera.cs" />
+    <Compile Include="UIDraggablePanel.cs" />
+    <Compile Include="UIDragObject.cs" />
+    <Compile Include="UIDragPanelContents.cs" />
+    <Compile Include="UIDrawCall.cs" />
+    <Compile Include="UIDynamicContent.cs" />
+    <Compile Include="UIEquipmentSlot.cs" />
+    <Compile Include="UIEventListener.cs" />
+    <Compile Include="UIFilledSprite.cs" />
+    <Compile Include="UIFont.cs" />
+    <Compile Include="UIFooterLoader.cs" />
+    <Compile Include="UIFootherHandler.cs" />
+    <Compile Include="UIForwardEvents.cs" />
+    <Compile Include="UIGameOverHelper.cs" />
+    <Compile Include="UIGeometry.cs" />
+    <Compile Include="UIGrid.cs" />
+    <Compile Include="UIHeadStartButton.cs" />
+    <Compile Include="UIHeadStartHelper.cs" />
+    <Compile Include="UIImageButton.cs" />
+    <Compile Include="UIIngameUpdater.cs" />
+    <Compile Include="UIInput.cs" />
+    <Compile Include="UIInputSaved.cs" />
+    <Compile Include="UIItemSlot.cs" />
+    <Compile Include="UIItemStorage.cs" />
+    <Compile Include="UILabel.cs" />
+    <Compile Include="UILocalize.cs" />
+    <Compile Include="UIMessageHelper.cs" />
+    <Compile Include="UIMissionHelper.cs" />
+    <Compile Include="UIModelController.cs" />
+    <Compile Include="UIMysteryBoxButton.cs" />
+    <Compile Include="UINode.cs" />
+    <Compile Include="UIOrthoCamera.cs" />
+    <Compile Include="UIPanel.cs" />
+    <Compile Include="UIPopupList.cs" />
+    <Compile Include="UIPowerupHandler.cs" />
+    <Compile Include="UIPowerupHelper.cs" />
+    <Compile Include="UIRoot.cs" />
+    <Compile Include="UISavedOption.cs" />
+    <Compile Include="UIScale.cs" />
+    <Compile Include="UIScreenController.cs" />
+    <Compile Include="UIScrollBar.cs" />
+    <Compile Include="UISlicedSprite.cs" />
+    <Compile Include="UISlideIn.cs" />
+    <Compile Include="UISlideInCharacterUnlock.cs" />
+    <Compile Include="UISlideInLettersHelper.cs" />
+    <Compile Include="UISlideInMissionHelper.cs" />
+    <Compile Include="UISlideInMissionSetHelper.cs" />
+    <Compile Include="UISlider.cs" />
+    <Compile Include="UISliderColors.cs" />
+    <Compile Include="UISocialScreen.cs" />
+    <Compile Include="UISprite.cs" />
+    <Compile Include="UISpriteAnimation.cs" />
+    <Compile Include="UIStartGameButton.cs" />
+    <Compile Include="UIStorageSlot.cs" />
+    <Compile Include="UIStretch.cs" />
+    <Compile Include="UITable.cs" />
+    <Compile Include="UITextList.cs" />
+    <Compile Include="UITexture.cs" />
+    <Compile Include="UITierHelper.cs" />
+    <Compile Include="UITiledSprite.cs" />
+    <Compile Include="UITokenScreenHandler.cs" />
+    <Compile Include="UITooltip.cs" />
+    <Compile Include="UITweener.cs" />
+    <Compile Include="UIVersionLabel.cs" />
+    <Compile Include="UIViewport.cs" />
+    <Compile Include="UIWidget.cs" />
+    <Compile Include="UpdateManager.cs" />
+    <Compile Include="Upgrade.cs" />
+    <Compile Include="UpgradeHelper.cs" />
+    <Compile Include="Upgrades.cs" />
+    <Compile Include="UpgradeScreenSetup.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="Variable.cs" />
+    <Compile Include="VisibleObject.cs" />
+    <Compile Include="WhatsNew.cs" />
+    <Compile Include="WindowAutoYaw.cs" />
+    <Compile Include="WindowDragTilt.cs" />
+    <Compile Include="XXInputTest.cs" />
+    <Compile Include="_testScript.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>..\..\..\rwws\subway surfers 1.0.0original\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

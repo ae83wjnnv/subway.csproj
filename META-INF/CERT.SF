@@ -1,0 +1,371 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: z1jiEvk9yhviEUwEa4TiWa2JGxL89LLOtv5B9wZZlgU=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: kjmkjhv0Njvv8ylBcb49KXpOeabgM/FauSewvIXmllw=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA-256-Digest: 2AsSD6sCXj0ra1nbndVFN4dC6pvXEAmiOrC3DLv/Gs8=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA-256-Digest: ka+Elf4cEnVurOz5QbB8DBz6JQPOYZ8zejbMqNI32q4=
+
+Name: assets/bin/Data/Managed/System.ComponentModel.Composition.dll
+SHA-256-Digest: iWAM/cEHZRK7l/7m0KPVDN+rQiSq5GT3ZgiugDMzIhs=
+
+Name: assets/bin/Data/Managed/System.Configuration.dll
+SHA-256-Digest: //7Vf/BS/mglm8aZc5pk6E9TYRsihcTjwDQljMAm1PM=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA-256-Digest: HILA9joGNrvDQz5zbOZYH47PTab9dCg8pjJa9A3Sm8k=
+
+Name: assets/bin/Data/Managed/System.Data.dll
+SHA-256-Digest: +rtOmVZkP9Osqse6ryn9NIj06pphuZgBYfEXzoCdPp8=
+
+Name: assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll
+SHA-256-Digest: kcmARv1sMjUa30fvAzoeR1E/PVF/LG4TigE5JVMVrZ0=
+
+Name: assets/bin/Data/Managed/System.Drawing.dll
+SHA-256-Digest: msKjnzPIGf/UpWVaHKJh0OOmXKy1PIsc+D9Elvkxyng=
+
+Name: assets/bin/Data/Managed/System.EnterpriseServices.dll
+SHA-256-Digest: 2GWCOUZwy/vSxwMM1GDmPGzB0fUrlMl87s6M2A+1oY8=
+
+Name: assets/bin/Data/Managed/System.Globalization.Extensions.dll
+SHA-256-Digest: pRviyqAYYcMVd4ENDxjQSRlRrVeiYbUoRbAlPe9E5eI=
+
+Name: assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll
+SHA-256-Digest: pCdugMMQh3hXjGUNtmc9wGzvn59P8VFuuCm9u7PkJF0=
+
+Name: assets/bin/Data/Managed/System.IO.Compression.dll
+SHA-256-Digest: OaQSALDJBfnGz1agWHeFpXfVpHSOM3QHlPMQgtfY2kk=
+
+Name: assets/bin/Data/Managed/System.Net.Http.dll
+SHA-256-Digest: qHHsi5dHGH8QVqGCVPQLQrQiJ0gGLJS07eVa8q1WmPQ=
+
+Name: assets/bin/Data/Managed/System.Numerics.dll
+SHA-256-Digest: udRX7z6zQC8CogXrjsNX+ya/w7u6Sx25LCTIc38rR5I=
+
+Name: assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll
+SHA-256-Digest: rnv1YojeF/mZr0W3gX5dbGxaAseuu+V09YahIsqjo3U=
+
+Name: assets/bin/Data/Managed/System.Runtime.Serialization.dll
+SHA-256-Digest: 60kIUWb762zZGAVyniefFmCO+2dK9TSWIrxJwbZmeAc=
+
+Name: assets/bin/Data/Managed/System.ServiceModel.Internals.dll
+SHA-256-Digest: kIXk3gGLefDMqA23+Vv1PknS6ow7TeCwygGssbfhF1o=
+
+Name: assets/bin/Data/Managed/System.Transactions.dll
+SHA-256-Digest: qCwpq+9FNRVQ/Vy8C1+BTV8Wjz6/R78kZZ6AnvuBQ5E=
+
+Name: assets/bin/Data/Managed/System.Xml.Linq.dll
+SHA-256-Digest: FcX6/lIc+WeXs8OrPMfddMv3gImh71Iksl/QKPUEqLI=
+
+Name: assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll
+SHA-256-Digest: 67oT+fX46ob+1xBFz/xyGniLpJSUbzLpfXUyKHZbpo4=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA-256-Digest: OS5zC2q91Ty1Iap92/8xwKApXejs+ea3BaZoOFwEyCQ=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA-256-Digest: yYy9vzW/AenXV1P5K4eQCclfnY217nyPjmHe53YqLGg=
+
+Name: assets/bin/Data/Managed/Unity.TextMeshPro.dll
+SHA-256-Digest: kbo055ZsBb49rzN9zLquyWrOzKJieJVGsXGsqlrnKuI=
+
+Name: assets/bin/Data/Managed/Unity.Timeline.dll
+SHA-256-Digest: Iu+rYMxfivmkZPHPWo5Iy52U4/gRDlkQtPmgM57c1hA=
+
+Name: assets/bin/Data/Managed/UnityEngine.AIModule.dll
+SHA-256-Digest: XuYs5t6L7pTX1bxwktuPqR3cbpjMLHOS7E010Pj3xG8=
+
+Name: assets/bin/Data/Managed/UnityEngine.ARModule.dll
+SHA-256-Digest: fnV7MDJN+vGtWIZFMZZ52NyzJTimnyyijGrxhzKCGhM=
+
+Name: assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+SHA-256-Digest: aW71TCwARiA7/8JABpkSfkXQ86HYquNJ5/nKVv9Gv+A=
+
+Name: assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll
+SHA-256-Digest: Lm53nhWCrySYeOrpkmmy1+i3mbczp/4Bpx3yfWQ6tWY=
+
+Name: assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+SHA-256-Digest: n4K1r0QEBLRTkIuU5+waw5HLSHdZh+4uB5+qwkEcP1U=
+
+Name: assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+SHA-256-Digest: uLEnzynieooWuCJmLeq5BmdVSAAKNnE3pxvsYXnfF+I=
+
+Name: assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+SHA-256-Digest: l+NifvHmqILnP0tJpRq+s9CIikRc9eSWk+Sjyfk16uE=
+
+Name: assets/bin/Data/Managed/UnityEngine.AutoStreamingModule.dll
+SHA-256-Digest: Thlm6ERCwfT3oFhP2ozqVEi648XTf3+57l/S2baRaNY=
+
+Name: assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+SHA-256-Digest: Eu0HuC3D1DCjoXx1esz2KYRd429WLQ5aA9s37DJdAKk=
+
+Name: assets/bin/Data/Managed/UnityEngine.CloudFoundationModule.dll
+SHA-256-Digest: onNbXekcG90vVAS9/xPsVNQT00gLbZ7yO2B+Pnv6Dak=
+
+Name: assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+SHA-256-Digest: rrg9lVPC218Q+1xyd8W4mEhtZRpH0mYyRonKYxIsqbo=
+
+Name: assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+SHA-256-Digest: BJlFuB49L43ddi2+Q5Qb5W+xxo/S7675Dkfzm02qC3E=
+
+Name: assets/bin/Data/Managed/UnityEngine.DSPGraphModule.dll
+SHA-256-Digest: ijL8giBHwLY6fQAXYiPaYTXRRt9UN82FvCbYV8PafgA=
+
+Name: assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+SHA-256-Digest: 8mMvRGJLnfZUXR/Xl94wtc80mjoOLMOCEd7HP2T6UIg=
+
+Name: assets/bin/Data/Managed/UnityEngine.GIModule.dll
+SHA-256-Digest: L2B1fwTwjcbB+1pSS+DuXd6Fb5yNbFfp72E2aWxlRzA=
+
+Name: assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+SHA-256-Digest: mtbftlmcAfba/szWlJP9DhmkBjt2EJy0C47v23ipFWo=
+
+Name: assets/bin/Data/Managed/UnityEngine.GridModule.dll
+SHA-256-Digest: YoQHENCFAi9ZtYvpLQeULz50DrCmHMrj/k3VWBRqEXA=
+
+Name: assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll
+SHA-256-Digest: nKZNj0PVu/9RgXm+Aj/9A/XZtvLgcsK3nNMSTye5veU=
+
+Name: assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+SHA-256-Digest: BStrukWBaGSPrjsB2T4+QlheC8Ry9FZomWGi0Q/Os3U=
+
+Name: assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+SHA-256-Digest: ArIYhAPLuuswSa9LAOuLdQ0/ljukJZQC2u9O/NL49YU=
+
+Name: assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll
+SHA-256-Digest: 7b3soWj0HGBAUmL2ZaCelWkurguBpHtam+eab2E+moU=
+
+Name: assets/bin/Data/Managed/UnityEngine.InputModule.dll
+SHA-256-Digest: HuowOFOkbcafs7d8QXrG2BYVSeZB8PVWwrqqHByzo+g=
+
+Name: assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+SHA-256-Digest: J0ZlSkNYcszFM7GuZaPXaJ0EnsqcXNSS2CWIoLZdE/c=
+
+Name: assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll
+SHA-256-Digest: aGpjcHSwf+lrrKj4Fpk8shoJSNezK5g45FQ8ynGq8ds=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+SHA-256-Digest: k63eGTka1+wCDfwtKoneb1zwFQ3QO5MrUC9jYZAelmQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.d
+ ll
+SHA-256-Digest: P1xHAqDj0VgPZ0Si46zEqfKjYSCaEOOjMIG7GvkeYoE=
+
+Name: assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+SHA-256-Digest: JeZ6d4iHELzjWdXWGI0AmdYyt4J0qji77ocNFSZ4ir4=
+
+Name: assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+SHA-256-Digest: VJDFQMmSsAB9T2lEyp41GaKbCrIe1Nas99dzYtwtsxI=
+
+Name: assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll
+SHA-256-Digest: gwGBcRP+xqX83s0q6yi4ImhDoqQIqFUh/JG+le3lxmY=
+
+Name: assets/bin/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManag
+ erInitializerModule.dll
+SHA-256-Digest: 3W1aHsD6zyN6cja6eg8rHJBEqzX/24ycNgQjrHJgrxg=
+
+Name: assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+SHA-256-Digest: 78D7YajRg6JSGshJQS89KIEuS5CbF5AvbdNh2ursF0E=
+
+Name: assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+SHA-256-Digest: /LjJk5IO8fW1lbsaTRQlESSlEsLiMBVsnYciFMU34mM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+SHA-256-Digest: qkyPpwoqHrpwOU+PKPUuvrrZF6Z+mDTpJDDnSIRGYZA=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+SHA-256-Digest: dAiZ6A3CEJOC0uinXC1fQeTDrQlEw7YkNomLppdrtC4=
+
+Name: assets/bin/Data/Managed/UnityEngine.StreamingModule.dll
+SHA-256-Digest: 33+xqAXebxF6+bYkL6/0O56wyEUdE+lv2WisyS98saI=
+
+Name: assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll
+SHA-256-Digest: SEBjmDqOBgBzSu4H1D64ORaGLKA88mcdHGNgapd7Sdc=
+
+Name: assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll
+SHA-256-Digest: tfHBLWTCgyPSN1y06a5d8RF4rQFzPM6aQvDdRu/8gOo=
+
+Name: assets/bin/Data/Managed/UnityEngine.TLSModule.dll
+SHA-256-Digest: VPk3WVlZ9/LPPo0Zbwvkgr/C89HIA/yTQoUc/0ogjwo=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+SHA-256-Digest: th/uJzjbMpkIlhF2ek1igKKyzHPKnCxAcYjqcmb1wD0=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+SHA-256-Digest: wFZZd3ea0Rj4tuTbfXvh79jyNa3LSl9tgj/JLqGXB8k=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll
+SHA-256-Digest: UQfj91IClmpKZPeQtMKGFN73HPtA3QeiUXbYR7X4Y1w=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+SHA-256-Digest: xGP7gDiriyR0/hfUmlQMfsDYpZO/+l7kO1uyKx++pX0=
+
+Name: assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+SHA-256-Digest: IBMm24OVLbA5VvMr4D0m6AjpLmhya0NJGdkY9kETJvg=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA-256-Digest: pUna0cZ5NPE3wUHLGh98DGL6OB868j1dwqM9XqtsABk=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+SHA-256-Digest: E15WS61vIepUbn3TFHL1VOvPweAybPxJ6hJSMKbym84=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIElementsNativeModule.dll
+SHA-256-Digest: eeJhP4jk56RHyGUiDTX1TekQnJ5mZVue3Y9JfbIarls=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIModule.dll
+SHA-256-Digest: sc6bQdhYWnx9L2DJRwVCOTxdwmIH2W0loBSx1YnYoX8=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIWidgetsModule.dll
+SHA-256-Digest: xcEVEJuH5QQn61MDiLfJg3ddmzecT8l0afxuCy+HV4c=
+
+Name: assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+SHA-256-Digest: +l+YjhED296IwqJ5P+Tg/9j9XYtpmRGYzRvrxzHSfAk=
+
+Name: assets/bin/Data/Managed/UnityEngine.UmbraModule.dll
+SHA-256-Digest: v9LQPPy66xmtTaO0m0f0Xcf4RLGzBQsFRjP9LjcTgmA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.d
+ ll
+SHA-256-Digest: mOcKJ9WGh7ibvkMfk052piGg05k5K0yt2ecOLMz+1e4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+SHA-256-Digest: H1zqr4rfwG0rUtHSCTxHs8xpXrv00xAO4uM1Hlkfu6w=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+SHA-256-Digest: KSAwTCpR1oO5jVYAhmScrr4cwwl/52z1zh9TPJTbtF0=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityCurlModule.dll
+SHA-256-Digest: NPvOnE/VDw3eo0sIiQoOI+w9bGKmCMY2JNXAea5IQc8=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+SHA-256-Digest: pDC2Xl/4ge9ywbuJsAjV7j0KuaA+kRkAqciY95uAGMU=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleMo
+ dule.dll
+SHA-256-Digest: bAWZPZRRwfpPHfEiysljjttM/iNtrq1m93Zghbl4RUg=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.d
+ ll
+SHA-256-Digest: j8KwyUoKwwNRuP+NVtVPV+4fb4sbVeKfPfvSO1lbpG4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+SHA-256-Digest: cfGtR3T3QNBjhAo0v5uFvquoMbhTtetBD7Vl7wbI6Ik=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+ .dll
+SHA-256-Digest: SYxD8vLQl/r5dZH8TjoqCvG11eSflDI4Fo+3aLCY0a4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+SHA-256-Digest: yhfvozae+0ph7DSq+6TWqGYMz9ODdiFwn/QTJ9mgig0=
+
+Name: assets/bin/Data/Managed/UnityEngine.VFXModule.dll
+SHA-256-Digest: 51FMf8yH67aJ6KBsgm/nGUZJBi571yr7kvvibu0BkcA=
+
+Name: assets/bin/Data/Managed/UnityEngine.VRModule.dll
+SHA-256-Digest: 61bfaMrDuVaEhOtG98ClSUY2A3TXeaIv+C3Wd6n7fTQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+SHA-256-Digest: hsvV36kRe/Wv8zljkTlbEH0wLlKVIdb/pH0w2pKM/No=
+
+Name: assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+SHA-256-Digest: ywE0Z1gyDZu7Yl8LAWHjnPrCvyf3yWiVHg38SNsLAzQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.WindModule.dll
+SHA-256-Digest: IoXd9hDlRFfs9zxW4zxYlo/zGXQ90EuHNtPpG4pfnW4=
+
+Name: assets/bin/Data/Managed/UnityEngine.XRModule.dll
+SHA-256-Digest: noXk2IJHO16OXuRWWRwjn7oKEkukRAYSUrx75aUZQu8=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA-256-Digest: 8+l9665z0v7XT4kjBvl+Yynzqk1at4VToN9mrMlmmjk=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA-256-Digest: ugUwhU8d9biJbKVjVoDfF6ZIk8xWCu40bQgiYHOwDKg=
+
+Name: assets/bin/Data/Managed/netstandard.dll
+SHA-256-Digest: Sq/xmexf2XamcKp02Rn2bZ52oEo6+BprtGtHC6HJ8Eo=
+
+Name: assets/bin/Data/RuntimeInitializeOnLoads.json
+SHA-256-Digest: GIS+TePGi6rgjUwGQ6g4mWw4D9GaWq2OotFHIcmlztw=
+
+Name: assets/bin/Data/ScriptingAssemblies.json
+SHA-256-Digest: qRUYGLueiJ1GTw+iI4WLXoyRmmyI6YfZO10v4sRetBQ=
+
+Name: assets/bin/Data/boot.config
+SHA-256-Digest: +DRBUWDDHPlOZrn997d7Z1WxF2FE3jyLHCZu3Fg2Abw=
+
+Name: assets/bin/Data/data.unity3d
+SHA-256-Digest: oKNP7AsMLey89hcE6nwdz5x24DI+g4w4+lOown1Raa8=
+
+Name: assets/bin/Data/platform_native_link.xml
+SHA-256-Digest: 6zmP7UvVFwOqnoBt+FyjzskxooCtJDsJTbVY2cK3Vp4=
+
+Name: assets/bin/Data/resources.resource
+SHA-256-Digest: F43NoLM7Mu29kGeccCLFsbhzbn+HLiUNZXPBSGZMlLY=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA-256-Digest: ur/5fWITXzJLgnjzI4ygf003ixlYP8Y6aIB30ZlgwG4=
+
+Name: assets/bin/Data/unity default resources
+SHA-256-Digest: 1ppBj8hD078SkkHUQPxTlyLnkk7Qp0n1eMz/hIKhf8M=
+
+Name: classes.dex
+SHA-256-Digest: cqMReOcH/0QlVxSJSbMMImiSiMzNo82kQsc02QMymHQ=
+
+Name: lib/armeabi-v7a/libMonoPosixHelper.so
+SHA-256-Digest: o1aOMuUtv09X+s6vjHVV+Ztc/vVGkRsagoIC+E63Ako=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA-256-Digest: GgW/SIU96oCQMIYBCVJlYZ1FPFcW5tYi1dE2/UWi0vQ=
+
+Name: lib/armeabi-v7a/libmonobdwgc-2.0.so
+SHA-256-Digest: BYEPYWmuvSbxbk11PsP0jK9E1N0pe8yb6kuXd63Ju5I=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA-256-Digest: sIsUzG7U1G5LYjwWAlSlxMCMraxMwga6nj8TCYHl7LM=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA-256-Digest: G1+rL0jNwiVrbc64qTfUhSr2tpYwCvKS7TwdVn+hFDs=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA-256-Digest: kf/AIc+q/9ylafIt98nIjHD8OyMsZR4jZOvHcOdqxdQ=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA-256-Digest: IP88sZMNOG3QO8dABtpjwiEdkDuBhJrO7xrY1ssoP/4=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA-256-Digest: R//bcmHJAFqSbJq5A/I1WHDZqrbDbrDxJYyqaB4tG7o=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA-256-Digest: tii+z1ABECnMvdZDiIW1lj2lw+ahMW02IrHEdXWP3Gc=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA-256-Digest: F8HcnlEMsLtEPMOesJQzNsM+bwXBi+0ftF9TNt7Y9gY=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA-256-Digest: /1hc71jvXN1MwsqNJbfmratBHXBU9WwFfaRXI3x6eN4=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA-256-Digest: XKGhx+/Oij+p3v5gOtmQ8ALewDykQ6R3A5txprkcoZA=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA-256-Digest: 0AwRE8HiDFESqi+7oGzF0cFGJbgkc4qlGxdhkah1kyU=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA-256-Digest: LvbLmOQEscJKrJCqldt81zQ27SbhXjaSBTuaDK+I2Uk=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA-256-Digest: bEGRwmqwAQBQDWssIZiVoCW6pMc7x7055YO3KBr0B74=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA-256-Digest: G3DsBCSIY4KLuiVZNRgOw3OmEJGrVwHQhZWYiGG61VQ=
+
+Name: resources.arsc
+SHA-256-Digest: vbQUBd1XkK6aQVz3NY/JLRLeeOfKQaFQU7JpaY7sU5w=
+
